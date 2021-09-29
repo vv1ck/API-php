@@ -14,30 +14,25 @@ It checks the email on these domains :
 install in server :
 <!--START_SECTION:waka-->
 ```
-git clone https://github.com/vv1ck/API-python.git
+git clone https://github.com/vv1ck/API-php.git
 ```
 <!--END_SECTION:waka-->
 ------------------
 run the api :
 <!--START_SECTION:waka-->
 ```
-cd API-python
+cd API-php
 ```
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-->
 ```
-pip install flask
-```
-<!--END_SECTION:waka-->
-<!--START_SECTION:waka-->
-```
-python3 api.py
+php -S localhost:9003
 ```
 <!--END_SECTION:waka-->
 - Open the link in the browser:
 <!--START_SECTION:waka-->
 ```
-http://127.0.0.1:5000/email=Put email
+http://localhost:9003/email=Put email
 ```
 <!--END_SECTION:waka-->
 --------------------
