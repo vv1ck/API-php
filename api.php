@@ -14,3 +14,5 @@ curl_setopt($send,CURLOPT_HTTPHEADER,$header);
 $respon = curl_exec($send);
 if ( $respon == "MSAccount") {echo '{"by telegram:@vv1ck" , status: True}';}
 else {echo '{"by telegram:@vv1ck" , status: False}';}
+
+?>
