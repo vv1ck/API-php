@@ -4,7 +4,7 @@ Is the email used or available?
 - And if the email is available, you will get a result ( False )
 - #Code php 
 - More > [ <a class="" href="https://github.com/vv1ck/API-JavaScript">api-JavaScript</a> | <a class="" href="https://github.com/vv1ck/API-python">api-python</a> ]
-- test >> 
+- test >> http://tweakpy-filza.ueuo.com/api.php?email=put@email.com
 ----------------
 It checks the email on these domains :
 - @gmail.com | @hotmail.com
