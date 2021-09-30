@@ -5,7 +5,7 @@ Is the email used or available?
 - #Code php 
 - More > [ <a class="" href="https://github.com/vv1ck/API-JavaScript">api-JavaScript</a> | <a class="" href="https://github.com/vv1ck/API-python">api-python</a> ]
 - test >> 
------------------
+----------------
 It checks the email on these domains :
 - @gmail.com | @hotmail.com
 - @yahoo.com | @mail.com
